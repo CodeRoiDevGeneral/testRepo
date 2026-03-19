@@ -1,2 +1,3 @@
 # testRepo
-test
+
+This is a test repository.
